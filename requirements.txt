@@ -1,0 +1,6 @@
+Falsk 
+sklearn
+pandas
+numpy
+matplotlib
+seaborn
